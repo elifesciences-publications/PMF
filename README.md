@@ -1,2 +1,2 @@
 # PMF
-VMD script to Calculate Potential Mean Force
+VMD script to calculate Potential Mean Force (PMF)
